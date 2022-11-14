@@ -1,0 +1,1 @@
+This app uses Camera and Video captures to allow the user to take photo/video and to also share with others.
